@@ -254,6 +254,3 @@ class HashMap:
             index = index + 1
         return out
 
-
-print(hash_function_1('anger'), hash_function_1('range'),
-      hash_function_2('anger'), hash_function_2('range'))
