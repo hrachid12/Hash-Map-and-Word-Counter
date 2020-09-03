@@ -8,7 +8,7 @@ Word_count.py takes an input document, computes the number of times each word wa
 
 ## Usage
 
-An example of how to use word_count.py to find the top 5 most used words in 'alice.txt' . It is required that both files are downloaded and in the same directory as 'example.py'.
+An example of how to use word_count.py to find the top 5 most used words in some document named 'alice.txt' . It is required that both files are downloaded and in the same directory as 'example.py'.
 
 ```python
 from word_count.py import top_words
