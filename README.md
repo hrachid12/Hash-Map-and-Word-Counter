@@ -16,3 +16,4 @@ from word_count.py import top_words
 top_words('alice.txt', 5)
 ```
 
+![Example word count](https://i.imgur.com/AZL8dLi.png)
